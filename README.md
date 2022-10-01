@@ -5,7 +5,7 @@
 <ul>
 <li>Add your name to the contributors.md file</li>
 </ul>
-```markdown
+```
 git clone https://github.com/your-username/hacktoberfest.git
 ```
 
