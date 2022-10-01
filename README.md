@@ -51,4 +51,4 @@ git push origin My-New-Branch
 - Who is the author of this project?
   - I'm Austin, a self-taught junior programmer from Morocco. See (my profile)[https://github.com/Lynch23] 
 - How can I contact you?
-  - (Github)[https://github.com/Lynch23] | (twitter)[https://www.twitter.com/a_lynch101]
+  - [Github](https://github.com/Lynch23) | [twitter](https://www.twitter.com/a_lynch101)
