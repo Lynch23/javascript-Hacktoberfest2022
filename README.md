@@ -14,16 +14,20 @@
 ```
 git clone https://github.com/your-username/javascript-Hacktoberfest2022.git
 ```
+
 - Navigate to project directory
+
 ```
 cd javascript-Hacktoberfest2022
 ```
+
 - Create a new Branch
+
 ```
 git checkout -b My-New-Branch
 ```
-- Add your contribution (Follow the steps above)
-```
+- Add your contribution files (Follow the steps above)
+
 - Add your changes to the staging area
 ```
 git add .
