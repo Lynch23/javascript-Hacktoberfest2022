@@ -52,7 +52,7 @@ Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.
 
 Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
 
-# FAQs(Frequently Asked Questions)🗺️
+# FAQs (Frequently Asked Questions)🗺️
 - Who can contribute to this project?
   - Anyone with a gitbub account and ready to jump into the world of open source projects
 - How does this help me become a better developer?
