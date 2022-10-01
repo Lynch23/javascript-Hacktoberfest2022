@@ -44,8 +44,10 @@ git push origin My-New-Branch
 
 # FAQs(Frequently Asked Questions)🗺️
 - Who can contribute to this project?
--- Anyone
+  - Anyone with a gitbub account and ready to jump into the world of open source projects
 - How does this help me become a better developer?
--- By doing this, you expose yourself to the mechanics of pull requests and contribution
+  - By doing this, you get to understand the mechanics of pull requests and contributions to open source projects
+- Who is the author of this project?
+  - I'm Austin, a self-taught junior programmer from Morocco. See (my profile)[https://github.com/Lynch23] 
 - How can I contact you?
--- (My profile)[https://github.com/Lynch23]
+  - (Github)[https://github.com/Lynch23] | (twitter)[https://www.twitter.com/a_lynch101]
