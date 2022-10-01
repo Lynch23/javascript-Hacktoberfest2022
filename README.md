@@ -12,7 +12,7 @@
 - Add comments inside main.js or add a separate documentation.md file to explain your demo concept/topic in your words (Optional)
 ## Getting started🧭📌
 - Fork this repo (from the top right button) at the top of the page
-- Clone this repo on your machine (git command)
+- Clone this repo onto your machine (git command)
 ```
 git clone https://github.com/your-username/javascript-Hacktoberfest2022.git
 ```
