@@ -4,7 +4,7 @@
 - This repo has some of my javascript documentation from my learning process. Some of the topics and concepts needed to master javascript for beginners, intermediates or advanced learners are included. Feel free to add any documentation on any javascript topic that you feel every developer should know. Accepting pull requests. Happy Coding! <br>
 [My profile](https://github.com/Lynch23)
 ## How to contribute to the project📚
-- Add your name to the contributors.md file
+- Add your name file to the contributors folder
 - Make a folder with the topic name
 - Inside the folder you just created, add a main.js and index.html
 - Link the two files you just created by adding a script tag inside your html
