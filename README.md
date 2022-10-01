@@ -52,10 +52,6 @@ Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.
 
 Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
 
-Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
-
 # FAQs(Frequently Asked Questions)🗺️
 - Who can contribute to this project?
   - Anyone with a gitbub account and ready to jump into the world of open source projects
