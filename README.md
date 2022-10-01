@@ -54,9 +54,9 @@ Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://
 
 # FAQs (Frequently Asked Questions)🗺️
 - Who can contribute to this project?
-  - Anyone with a gitbub account and ready to jump into the world of open source projects
+  - Anyone with a github account and ready to jump into the world of open source projects
 - How does this help me become a better developer?
-  - By doing this, you get to understand the mechanics of pull requests and contributions to open source projects
+  - By doing contributing, you get to understand the mechanics of pull requests and contributions to open source and also show your knowledge of javascript
 - Who is the author of this project?
   - I'm Austin, a self-taught junior programmer from Morocco. See [my profile](https://github.com/Lynch23) 
 - How can I contact you?
