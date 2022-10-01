@@ -8,3 +8,5 @@
 ```markdown
 git clone https://github.com/your-username/hacktoberfest.git
 ```
+
+# Contribution rules📚:
