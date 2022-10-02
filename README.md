@@ -1,4 +1,4 @@
-#Link to remake of this repo [HERE](https://github.com/Lynch23/javascript-documentation)!
+# Link to remake of this repo [HERE](https://github.com/Lynch23/javascript-documentation)!
 
 ### open-source
 # Submit your PR to this [javascript-Hacktoberfest2022](https://github.com/Lynch23/javascript-Hacktoberfest2022) repo🧭🌟❗
