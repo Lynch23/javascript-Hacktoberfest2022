@@ -1,4 +1,5 @@
-### Hacktoberfest2022 
+#Link to remake of this repo [HERE](https://github.com/Lynch23/javascript-documentation)!
+
 ### open-source
 # Submit your PR to this [javascript-Hacktoberfest2022](https://github.com/Lynch23/javascript-Hacktoberfest2022) repo🧭🌟❗
 - This repo has some of my javascript documentation from my learning process. Some of the topics and concepts needed to master javascript for beginners, intermediates or advanced learners are included. Feel free to add any documentation on any javascript topic that you feel every developer should know. Accepting pull requests. Happy Coding! <br>
