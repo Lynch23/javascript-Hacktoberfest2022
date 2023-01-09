@@ -1,5 +1,3 @@
-# ❗❗❗This repository is no longer hacktoberfest eligible, follow the link below to the Hacktoberbest eligble copy.
-# [Link to HACKTOBERFEST ELIGIBLE REPOSITORY HERE](https://github.com/Lynch23/javascript-documentation)!
 ### Push all javascript project folders inside the projects folder.
 ### open-source
 # Submit your PR to this [javascript-Hacktoberfest2022](https://github.com/Lynch23/javascript-Hacktoberfest2022) repo🧭🌟❗
